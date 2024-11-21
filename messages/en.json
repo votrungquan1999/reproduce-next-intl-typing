@@ -1,0 +1,4 @@
+{
+  "message_with_variable": "Seconds after rendered are: {seconds}",
+  "message_with_tag": "Seconds after rendered are: <seconds></seconds>"
+}
